@@ -10,7 +10,7 @@
 - 💞️ I’m looking forward to a good collaboration in the above mentioned fields.
 - 
 - 📫 How to reach me via the following following:
-- email: netocodez@gmail.com, chinedu.pius@gmail.com and fellywizy@gmail.com
+- email: netocodez@gmail.com, chinedum.pius@gmail.com and fellywizy@gmail.com
 - phone: +2348134453841
 - linkdin: https://www.linkedin.com/in/chinedu-onyeneto-814425168/
 - website: https://netocodes.blogspot.com/
