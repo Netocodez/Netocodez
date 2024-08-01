@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Netocodez with over 5 years of experience as a developer ,Monitoring & Evaluation Officer, Data Analytics/Visualization Personnel and Developer.
+- 👋 Hi, I’m @Netocodez with over 5 years of experience as a developer ,Monitoring & Evaluation Officer, Data Analytics/Visualization Personnel.
 - Currently, I work as Consultant, improving lives by running different data analysis/Reporting which helps in decision making.
 - Previously, I was a Database Administrator/DEC, where I analyzed data for one of the biggest enterprise companies in the world.
 - 
