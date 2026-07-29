@@ -13,7 +13,7 @@
 - email: netocodez@gmail.com, chinedum.pius@gmail.com and fellywizy@gmail.com
 - phone: +2348134453841
 - linkdin: https://www.linkedin.com/in/chinedu-onyeneto-814425168/
-- website: https://netocodes.blogspot.com/
+- website: https://netocodez.github.io/My-Profile/ , https://netocodes.blogspot.com/
 - 
 - 😄 II am industrious, quick learner, problem solver and a result oriented person I also love staying updated with the latest technologies that improve productivity
 - 
